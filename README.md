@@ -1,2 +1,2 @@
-# Penguin-icon
+# Penguin-icons
 Penguin icon svg editable
