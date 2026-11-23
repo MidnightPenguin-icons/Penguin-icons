@@ -1,7 +1,9 @@
 # Penguin-icons
+![Penguin Icons](Preview-1.png)
+
 Penguin icons (free and Open source) in SVG and PNG format.
 
-SVG's versions are optimised and unoptimised.
+SVG's versions available in both optimised and unoptimised.
 
 PNG's are 512px width.
 
